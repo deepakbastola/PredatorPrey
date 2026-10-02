@@ -57,10 +57,10 @@ herding. Converges to the deterministic LV ODE as `N → ∞`.
 Clone and launch Jupyter:
 
 ```bash
-git clone https://github.com/<org>/<repo>.git
-cd <repo>
+git clone https://github.com/deepakbastola/PredatorPrey.git
+cd PredatorPrey
 pip install -r requirements.txt     # or install the dependencies below manually
-jupyter notebook MathBio.ipynb
+jupyter notebook PredatorPrey.ipynb
 ```
 
 Run **Kernel → Restart & Run All** to regenerate every figure. Each cell writes
