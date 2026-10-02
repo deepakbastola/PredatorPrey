@@ -59,7 +59,6 @@ Clone and launch Jupyter:
 ```bash
 git clone https://github.com/deepakbastola/PredatorPrey.git
 cd PredatorPrey
-pip install -r requirements.txt     # or install the dependencies below manually
 jupyter notebook PredatorPrey.ipynb
 ```
 
